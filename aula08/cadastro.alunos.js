@@ -5,6 +5,7 @@ let idadeMedia = undefined
 let idadeTotal = 0
 let indice = 0
 
+ 
 for(let i = 0;i<5;i++){
     let Taluno = {
 
